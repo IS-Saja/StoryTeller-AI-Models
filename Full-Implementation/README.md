@@ -16,7 +16,7 @@ This code uses the Gradio library and Hugging Face Transformers to create a simp
   *   model_name: The name of the model to be used for story generation, chosen by the user from a list of available models.
 *  **Inside the function:**
   *   The text-generation model is loaded using the pipeline function from Hugging Face's Transformers.
-  *   The story is generated using the selected model based on the input title. Parameters like max_length (maximum length of the generated story) and temperature (to control randomness) are fixed.
+  *   The story is generated using the selected model based on the input title. Parameters like max_length (maximum length of the generated story), no_repeat_ngram_size (to avoid repeating sequences of words), temperature (to control the randomness of the output), and top_p (to use nucleus sampling, keeping the top 95% probable tokens) are fixed.
 *  The function returns the generated story as a string.
 3. **Creating the Gradio Interface:** 
 *  This part creates a Gradio interface with two inputs:
