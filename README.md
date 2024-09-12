@@ -18,7 +18,10 @@ This project aims to develop an application that dynamically generates short sto
 ## The Colab urls:
 - **Full-Implementation**: https://colab.research.google.com/drive/1cBtYasT6wPGhXL4Mv4Mo4IvQtbMaRuma?usp=drive_link
 - **Gradio Example**: https://colab.research.google.com/drive/1UwQmCD4oqrfE_wIOqoqyLDO4HWQpylRI?usp=sharing
-- **Simple Pipeline**: 
+- **Simple Pipeline**: https://colab.research.google.com/drive/11lv247qm64JmyjhDXi5QleFpGpeRxpAH#scrollTo=hXK6UurN76JM
+
+## The Video url:
+https://drive.google.com/drive/folders/1fBlhhor1PajDIhnkS5IId0dsk0lcAYzp?usp=drive_link
 
 ## Objectives:
 - Empower users to creatively generate short stories using AI.
