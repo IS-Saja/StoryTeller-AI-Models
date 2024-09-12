@@ -1,7 +1,9 @@
 ## **Explanation**
 In this code, we are using the Gradio library to create a simple web interface for users to select and view short stories from a predefined collection.
 
-#### The URL = https://colab.research.google.com/drive/1UwQmCD4oqrfE_wIOqoqyLDO4HWQpylRI#scrollTo=8Y7KR-iVwpwP
+#### The URL:
+
+**https://colab.research.google.com/drive/1UwQmCD4oqrfE_wIOqoqyLDO4HWQpylRI#scrollTo=8Y7KR-iVwpwP**
 
 ### **Key Steps**
 
