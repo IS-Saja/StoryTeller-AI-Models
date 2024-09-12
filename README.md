@@ -1,4 +1,4 @@
-# Short Story Generation Project using Hugging Face and Gradio
+# Short Story Generation using Hugging Face and Gradio
 
 ## Project Description
 This project aims to develop an application that dynamically generates short stories based on a title entered by the user and the selection of an appropriate model for text generation. The project leverages pre-trained models from Hugging Face and allows the user to experiment with different AI models to create creative text outputs in an interactive way.
