@@ -2,7 +2,7 @@
 This code uses the Gradio library and Hugging Face Transformers to create a simple interface for generating stories using various text-generation models. Let's break it down step by step:
 
 #### The URL:
-**https://colab.research.google.com/drive/1cBtYasT6wPGhXL4Mv4Mo4IvQtbMaRuma?usp=drive_link**
+**https://colab.research.google.com/drive/1cBtYasT6wPGhXL4Mv4Mo4IvQtbMaRuma**
 
 ### **Key Steps**
 
