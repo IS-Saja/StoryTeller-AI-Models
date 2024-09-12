@@ -1,5 +1,8 @@
 ## **Explanation**
  In this section we are using the Hugging Face Transformers library to create a text-to-text generation pipeline using the pipeline function. We are specifically loading a model called "maldv/badger-writer-llama-3-8b", which is suited for generating creative text, such as storytelling or narrative generation.
+ 
+#### The URL:
+**https://colab.research.google.com/drive/11lv247qm64JmyjhDXi5QleFpGpeRxpAH?usp=drive_link**
 
 ### **Key Steps**
 
