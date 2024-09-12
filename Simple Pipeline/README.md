@@ -7,11 +7,11 @@
 2.   **Loading the Model:** We specify the model (maldv/badger-writer-llama-3-8b) and task (text2text-generation) in the pipeline. This model is designed to generate text based on input prompts, making it ideal for tasks like storytelling or long-form text generation.
 3. **Verifying the Loaded Model:** We print the pipeline to confirm that it has been successfully loaded and is ready for use.
 
-4. ##**Explanation:**
+4. ## **Explanation:**
 
 In this part of the code, we generate a detailed story using the Hugging Face text-to-text pipeline. The prompt provides a scenario in which King Eldran is warned of a great danger, while a young boy named Eldric stumbles upon a mysterious box in a distant village. The model will continue this story based on the provided input.
 
-###**Key Steps:**
+### **Key Steps:**
 1. Defining the Prompt:
 The prompt describes two interconnected events—a wizard’s warning to a king and a young boy's discovery of a strange object in the forest. This serves as the starting point for the AI-generated story.
 2. Text Generation Parameters:
