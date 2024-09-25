@@ -14,7 +14,7 @@ This project aims to develop an application that dynamically generates short sto
 - **Gradio**: Creating an interactive interface that allows easy title input and model selection.
 - **Python**: The main programming language used to connect the components and perform story generation.
 - **GitHub**: For managing and sharing the project with the community.
-- 
+  
 ## The Colab urls:
 - **Full-Implementation**: https://colab.research.google.com/drive/1cBtYasT6wPGhXL4Mv4Mo4IvQtbMaRuma
 - **Gradio Example**: https://colab.research.google.com/drive/1UwQmCD4oqrfE_wIOqoqyLDO4HWQpylRI?usp=sharing
